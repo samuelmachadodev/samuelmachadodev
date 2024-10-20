@@ -13,12 +13,14 @@
 
 
 <div align="left" style="display: inline_block" >
-  <h3>💻 Minhas Tech: </h3>
+  <h3>💻 Tech: <br></h3>
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
   <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
+
+
 
 <div>
  <h3> 🌐 Redes Sociais: <br></h3> 
