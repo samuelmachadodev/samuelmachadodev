@@ -1,8 +1,8 @@
 
 ## Seja Bem-Vindo! Eu sou o Samuel Machado 👋
 
-<h1>💻 Entusiasta em tecnologia...</h1>
-- ☕ Estudando JAVA...
+<h3>💻 Entusiasta em Tecnologia...</h3>
+<h3>☕ Estudando JAVA...</h3>
 
 
 <div align="center" style="display: inline_block">
