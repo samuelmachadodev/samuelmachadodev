@@ -1,9 +1,9 @@
 
 ## Seja Bem-Vindo! Eu sou o Samuel Machado 👋
 
-- 💻 Entusiasta em tecnologia...
+<h1>💻 Entusiasta em tecnologia...</h1>
 - ☕ Estudando JAVA...
-- ⚛ Estudando REACT...
+
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
