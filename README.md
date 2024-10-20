@@ -6,8 +6,8 @@
 <h3> 📚 Github Stats: <br></h3>
 <div>
   <a href="https://github.com/samuelmachadodev"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=samuelmachadodev&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmachadodev&layout=compact&langscount=16&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=samuelmachadodev&show_icons=true&date_night"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmachadodev&layout=compact&langscount=16&date_night"/>
 </div>
 
 
