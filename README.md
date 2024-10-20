@@ -3,6 +3,14 @@
 
 <h4>💻 Entusiasta em Tecnologia...</h4>
 
+<h3> 📚 Github Stats: <br></h3>
+<div>
+  <a href="[https://github.com/kauabetito](https://github.com/kauabetito)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauabetito&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabetito&layout=compact&langscount=16&theme=tokyonight"/>
+</div>
+
+
 
 <div align="left" style="display: inline_block" >
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
